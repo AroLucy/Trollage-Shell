@@ -3,7 +3,7 @@ A Lightwieght Shell using GNU readline. Written in C++
 
 ### Notes
 Is it useable as an everyday shell?
-- Absolutly, you will encounter issues suck line wrapping not working correctly/happening prematurly
+- Absolutly, you will encounter issues such as line wrapping not working correctly/happening prematurly
 
 Do I recommend you use it as an everyday shell?
 - No, The shell has lots of bugs/issues along with no standard sh scripting,
